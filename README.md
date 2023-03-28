@@ -1,5 +1,4 @@
 # project-documentation
-Github documentation for a project
 
 <p align="center">
   <a href="" rel="noopener">
